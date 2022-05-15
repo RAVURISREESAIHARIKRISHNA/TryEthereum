@@ -1,0 +1,11 @@
+{
+  "name": "TryEthereum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RAVURISREESAIHARIKRISHNA/TryEthereum.git",
+  "author": "hravuri <hravuri@mathworks.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  }
+}
